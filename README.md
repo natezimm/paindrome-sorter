@@ -1,1 +1,1 @@
-# paindrome-sorter
+This program reads an input file. First, it will count the number of palindromes in the file and print out each palindrome string with the final total at the end. The palindromes are case sensitive and do not accept numbers. Second, it will write all strings beginning from "a" to "m" into one file and write all others to another file.
